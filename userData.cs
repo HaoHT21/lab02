@@ -21,7 +21,7 @@ namespace lab02
         }
         public void GetInfor()
         {
-            Console.WriteLine(":ID: " + Id + "|userName: " + Username + "|level: " + Level);
+            Console.WriteLine(":ID: " + Id + "|UserName: " + Username + "|Level: " + Level);
 
         }
 
